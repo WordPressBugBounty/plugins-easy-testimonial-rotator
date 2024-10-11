@@ -1,0 +1,565 @@
+# Copyright (C) 2020 Easy Testimonial Slider
+# This file is distributed under the same license as the Easy Testimonial Slider package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Easy Testimonial Slider 1.0.10\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/easy-testimonial-"
+"rotator\n"
+"POT-Creation-Date: 2020-08-30 11:13:01+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2020-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: easy-testimonial-rotator.php:525
+msgid "Does not found such form"
+msgstr ""
+
+#: easy-testimonial-rotator.php:625
+msgid ""
+"Easy Testimonial Rotator is active but does not have write permission on"
+msgstr ""
+
+#: easy-testimonial-rotator.php:625
+msgid " directory.Please allow write permission"
+msgstr ""
+
+#: easy-testimonial-rotator.php:632
+msgid ""
+"Easy Testimonial Rotator is active but plugin does not have permission to "
+"create directory"
+msgstr ""
+
+#: easy-testimonial-rotator.php:632
+msgid ""
+" .Please create easy-testimonial-rotator directory inside upload directory "
+"and allow write permission"
+msgstr ""
+
+#: easy-testimonial-rotator.php:747
+msgid "Easy Testimonial Rotator"
+msgstr ""
+
+#: easy-testimonial-rotator.php:748 easy-testimonial-rotator.php:1874
+msgid "Slider Settings"
+msgstr ""
+
+#: easy-testimonial-rotator.php:749 easy-testimonial-rotator.php:900
+#: easy-testimonial-rotator.php:909
+msgid "Form Settings"
+msgstr ""
+
+#: easy-testimonial-rotator.php:750
+msgid "Manage Testimonials"
+msgstr ""
+
+#: easy-testimonial-rotator.php:751 easy-testimonial-rotator.php:3670
+msgid "Preview Slider"
+msgstr ""
+
+#: easy-testimonial-rotator.php:778 easy-testimonial-rotator.php:1743
+#: easy-testimonial-rotator.php:2246
+msgid "Access Denied"
+msgstr ""
+
+#: easy-testimonial-rotator.php:842
+msgid "Form settings updated successfully."
+msgstr ""
+
+#: easy-testimonial-rotator.php:878 easy-testimonial-rotator.php:1856
+#: easy-testimonial-rotator.php:2273 easy-testimonial-rotator.php:3012
+msgid "UPGRADE TO PRO VERSION"
+msgstr ""
+
+#: easy-testimonial-rotator.php:917
+msgid "Show Author Name Field ?"
+msgstr ""
+
+#: easy-testimonial-rotator.php:921 easy-testimonial-rotator.php:935
+#: easy-testimonial-rotator.php:950 easy-testimonial-rotator.php:964
+#: easy-testimonial-rotator.php:979 easy-testimonial-rotator.php:993
+#: easy-testimonial-rotator.php:1008 easy-testimonial-rotator.php:1024
+#: easy-testimonial-rotator.php:1038 easy-testimonial-rotator.php:1262
+#: easy-testimonial-rotator.php:1276 easy-testimonial-rotator.php:1890
+#: easy-testimonial-rotator.php:1905 easy-testimonial-rotator.php:1980
+#: easy-testimonial-rotator.php:1994 easy-testimonial-rotator.php:2008
+#: easy-testimonial-rotator.php:2022 easy-testimonial-rotator.php:2036
+#: easy-testimonial-rotator.php:2051 easy-testimonial-rotator.php:2065
+#: easy-testimonial-rotator.php:3312
+msgid "Select"
+msgstr ""
+
+#: easy-testimonial-rotator.php:922 easy-testimonial-rotator.php:936
+#: easy-testimonial-rotator.php:951 easy-testimonial-rotator.php:965
+#: easy-testimonial-rotator.php:980 easy-testimonial-rotator.php:994
+#: easy-testimonial-rotator.php:1009 easy-testimonial-rotator.php:1025
+#: easy-testimonial-rotator.php:1039 easy-testimonial-rotator.php:1263
+#: easy-testimonial-rotator.php:1277 easy-testimonial-rotator.php:1891
+#: easy-testimonial-rotator.php:1906 easy-testimonial-rotator.php:1981
+#: easy-testimonial-rotator.php:1995 easy-testimonial-rotator.php:2009
+#: easy-testimonial-rotator.php:2023 easy-testimonial-rotator.php:2037
+#: easy-testimonial-rotator.php:2052 easy-testimonial-rotator.php:2066
+msgid "Yes"
+msgstr ""
+
+#: easy-testimonial-rotator.php:923 easy-testimonial-rotator.php:937
+#: easy-testimonial-rotator.php:952 easy-testimonial-rotator.php:966
+#: easy-testimonial-rotator.php:981 easy-testimonial-rotator.php:995
+#: easy-testimonial-rotator.php:1010 easy-testimonial-rotator.php:1026
+#: easy-testimonial-rotator.php:1040 easy-testimonial-rotator.php:1264
+#: easy-testimonial-rotator.php:1278 easy-testimonial-rotator.php:1892
+#: easy-testimonial-rotator.php:1907 easy-testimonial-rotator.php:1982
+#: easy-testimonial-rotator.php:1996 easy-testimonial-rotator.php:2010
+#: easy-testimonial-rotator.php:2024 easy-testimonial-rotator.php:2038
+#: easy-testimonial-rotator.php:2053 easy-testimonial-rotator.php:2067
+msgid "No"
+msgstr ""
+
+#: easy-testimonial-rotator.php:931
+msgid "Author Name Field Is Required Field ?"
+msgstr ""
+
+#: easy-testimonial-rotator.php:946
+msgid "Show Author Designation Field ?"
+msgstr ""
+
+#: easy-testimonial-rotator.php:960
+msgid "Author Designation Field Is Required Field ?"
+msgstr ""
+
+#: easy-testimonial-rotator.php:975
+msgid "Show Author Email Field ?"
+msgstr ""
+
+#: easy-testimonial-rotator.php:989
+msgid "Author Email Field Is Required Field ?"
+msgstr ""
+
+#: easy-testimonial-rotator.php:1004
+msgid "Protect Front-end Form with Captcha ?"
+msgstr ""
+
+#: easy-testimonial-rotator.php:1018
+msgid "Show Photo Upload ? "
+msgstr ""
+
+#: easy-testimonial-rotator.php:1034
+msgid "Photo Field Is Required Field ?"
+msgstr ""
+
+#: easy-testimonial-rotator.php:1050
+msgid "Messages & Label Settings"
+msgstr ""
+
+#: easy-testimonial-rotator.php:1057
+msgid "Testimonial Label"
+msgstr ""
+
+#: easy-testimonial-rotator.php:1067
+msgid "Author Name Label"
+msgstr ""
+
+#: easy-testimonial-rotator.php:1077
+msgid "Author Designation Label"
+msgstr ""
+
+#: easy-testimonial-rotator.php:1087
+msgid "Author Photo Label"
+msgstr ""
+
+#: easy-testimonial-rotator.php:1097
+msgid "Author Photo Link Label"
+msgstr ""
+
+#: easy-testimonial-rotator.php:1109
+msgid "Author Email Label"
+msgstr ""
+
+#: easy-testimonial-rotator.php:1122
+msgid "Captcha Label"
+msgstr ""
+
+#: easy-testimonial-rotator.php:1132
+msgid "New Captcha Label"
+msgstr ""
+
+#: easy-testimonial-rotator.php:1142
+msgid "Status Label"
+msgstr ""
+
+#: easy-testimonial-rotator.php:1152
+msgid "Submit Label"
+msgstr ""
+
+#: easy-testimonial-rotator.php:1162
+msgid "Required Field Error Message"
+msgstr ""
+
+#: easy-testimonial-rotator.php:1174
+msgid "Invalid Email Field Error Message"
+msgstr ""
+
+#: easy-testimonial-rotator.php:1184
+msgid "Invalid Photo Field Error Message"
+msgstr ""
+
+#: easy-testimonial-rotator.php:1195
+msgid "Invalid Captcha Message"
+msgstr ""
+
+#: easy-testimonial-rotator.php:1206
+msgid "Success Message"
+msgstr ""
+
+#: easy-testimonial-rotator.php:1217
+msgid "Error Message"
+msgstr ""
+
+#: easy-testimonial-rotator.php:1246
+msgid "Testimonial moderation & email settings"
+msgstr ""
+
+#: easy-testimonial-rotator.php:1258
+msgid "Auto Approve Testimonial ?"
+msgstr ""
+
+#: easy-testimonial-rotator.php:1272
+msgid "Notify Admin For New Testimonial Received"
+msgstr ""
+
+#: easy-testimonial-rotator.php:1286
+msgid "Email Subject"
+msgstr ""
+
+#: easy-testimonial-rotator.php:1296
+msgid "Email From Name"
+msgstr ""
+
+#: easy-testimonial-rotator.php:1300
+msgid "(ex. admin)"
+msgstr ""
+
+#: easy-testimonial-rotator.php:1307
+msgid "Email From"
+msgstr ""
+
+#: easy-testimonial-rotator.php:1311 easy-testimonial-rotator.php:1322
+msgid "(ex. admin@yoursite.com)"
+msgstr ""
+
+#: easy-testimonial-rotator.php:1318
+msgid "Email To"
+msgstr ""
+
+#: easy-testimonial-rotator.php:1329
+msgid "Email Body"
+msgstr ""
+
+#: easy-testimonial-rotator.php:1342
+msgid "You can use"
+msgstr ""
+
+#: easy-testimonial-rotator.php:1342
+msgid "place holder into email content"
+msgstr ""
+
+#: easy-testimonial-rotator.php:1349 easy-testimonial-rotator.php:2077
+#: easy-testimonial-rotator.php:3326
+msgid "Save Changes"
+msgstr ""
+
+#: easy-testimonial-rotator.php:1350 easy-testimonial-rotator.php:2086
+msgid "Cancel"
+msgstr ""
+
+#: easy-testimonial-rotator.php:1700 easy-testimonial-rotator.php:2196
+#: easy-testimonial-rotator.php:3442
+msgid "Access All Themes One price"
+msgstr ""
+
+#: easy-testimonial-rotator.php:1710 easy-testimonial-rotator.php:2206
+#: easy-testimonial-rotator.php:3452
+msgid "Google For Business Coupon"
+msgstr ""
+
+#: easy-testimonial-rotator.php:1797
+msgid "Slider settings updated successfully."
+msgstr ""
+
+#: easy-testimonial-rotator.php:1880
+msgid "Settings"
+msgstr ""
+
+#: easy-testimonial-rotator.php:1886
+msgid "Auto Slide ?"
+msgstr ""
+
+#: easy-testimonial-rotator.php:1901
+msgid "Is Circular Slider ?"
+msgstr ""
+
+#: easy-testimonial-rotator.php:1916
+msgid "Speed"
+msgstr ""
+
+#: easy-testimonial-rotator.php:1926
+msgid "Pause"
+msgstr ""
+
+#: easy-testimonial-rotator.php:1936
+msgid "Box Border Color"
+msgstr ""
+
+#: easy-testimonial-rotator.php:1946
+msgid "Box Border Size"
+msgstr ""
+
+#: easy-testimonial-rotator.php:1956
+msgid "Box Shadow Color"
+msgstr ""
+
+#: easy-testimonial-rotator.php:1966
+msgid "Slider Backgroud Color"
+msgstr ""
+
+#: easy-testimonial-rotator.php:1976
+msgid "Is Adaptive Height"
+msgstr ""
+
+#: easy-testimonial-rotator.php:1990
+msgid "Show Author Name ?"
+msgstr ""
+
+#: easy-testimonial-rotator.php:2004
+msgid "Show Author Designation ?"
+msgstr ""
+
+#: easy-testimonial-rotator.php:2018
+msgid "Show Arrows"
+msgstr ""
+
+#: easy-testimonial-rotator.php:2032
+msgid "Show Pagination ?"
+msgstr ""
+
+#: easy-testimonial-rotator.php:2047
+msgid "Touch Enabled ?"
+msgstr ""
+
+#: easy-testimonial-rotator.php:2061
+msgid "Resize Images ?"
+msgstr ""
+
+#: easy-testimonial-rotator.php:2305
+msgid "Testimonials"
+msgstr ""
+
+#: easy-testimonial-rotator.php:2305
+msgid "Add New"
+msgstr ""
+
+#: easy-testimonial-rotator.php:2310 easy-testimonial-rotator.php:2674
+msgid "Bulk Actions"
+msgstr ""
+
+#: easy-testimonial-rotator.php:2311 easy-testimonial-rotator.php:2486
+#: easy-testimonial-rotator.php:2647 easy-testimonial-rotator.php:2675
+msgid "Delete"
+msgstr ""
+
+#: easy-testimonial-rotator.php:2313 easy-testimonial-rotator.php:2679
+msgid "Apply"
+msgstr ""
+
+#: easy-testimonial-rotator.php:2326
+msgid "No such slider found"
+msgstr ""
+
+#: easy-testimonial-rotator.php:2399 easy-testimonial-rotator.php:2401
+msgid "Search"
+msgstr ""
+
+#: easy-testimonial-rotator.php:2402
+msgid "Reset Search"
+msgstr ""
+
+#: easy-testimonial-rotator.php:2433 easy-testimonial-rotator.php:2436
+#: easy-testimonial-rotator.php:2438 easy-testimonial-rotator.php:2638
+msgid "Id"
+msgstr ""
+
+#: easy-testimonial-rotator.php:2443 easy-testimonial-rotator.php:2446
+#: easy-testimonial-rotator.php:2448 easy-testimonial-rotator.php:2639
+msgid "Author Name"
+msgstr ""
+
+#: easy-testimonial-rotator.php:2453 easy-testimonial-rotator.php:2456
+#: easy-testimonial-rotator.php:2458 easy-testimonial-rotator.php:2640
+msgid "Testimonial"
+msgstr ""
+
+#: easy-testimonial-rotator.php:2466 easy-testimonial-rotator.php:2469
+#: easy-testimonial-rotator.php:2471 easy-testimonial-rotator.php:2644
+msgid "Submitted On"
+msgstr ""
+
+#: easy-testimonial-rotator.php:2476 easy-testimonial-rotator.php:2479
+#: easy-testimonial-rotator.php:2481 easy-testimonial-rotator.php:2645
+msgid "Status"
+msgstr ""
+
+#: easy-testimonial-rotator.php:2485 easy-testimonial-rotator.php:2646
+msgid "Edit"
+msgstr ""
+
+#: easy-testimonial-rotator.php:2632 easy-testimonial-rotator.php:3313
+msgid "Published"
+msgstr ""
+
+#: easy-testimonial-rotator.php:2634 easy-testimonial-rotator.php:3314
+msgid "Draft"
+msgstr ""
+
+#: easy-testimonial-rotator.php:2637
+msgid "Select Record"
+msgstr ""
+
+#: easy-testimonial-rotator.php:2641
+msgid "Image"
+msgstr ""
+
+#: easy-testimonial-rotator.php:2656
+msgid "No Testimonials Found"
+msgstr ""
+
+#: easy-testimonial-rotator.php:2686
+msgid "Are you sure you want to delete this testimonial ?"
+msgstr ""
+
+#: easy-testimonial-rotator.php:2706
+msgid "Are you sure you want to delete selected testimonials."
+msgstr ""
+
+#: easy-testimonial-rotator.php:2714
+msgid "Please select atleast one record to delete."
+msgstr ""
+
+#: easy-testimonial-rotator.php:2727 easy-testimonial-rotator.php:3991
+msgid "To print this slider into WordPress Post/Page use below code"
+msgstr ""
+
+#: easy-testimonial-rotator.php:2730 easy-testimonial-rotator.php:3994
+msgid ""
+"To print this slider into WordPress theme/template PHP files use below code"
+msgstr ""
+
+#: easy-testimonial-rotator.php:2738 easy-testimonial-rotator.php:4002
+msgid "To print form for this slider into WordPress Post/Page use below code"
+msgstr ""
+
+#: easy-testimonial-rotator.php:2741 easy-testimonial-rotator.php:4005
+msgid ""
+"To print form for this slider into WordPress theme/template PHP files use "
+"below code"
+msgstr ""
+
+#: easy-testimonial-rotator.php:2812 easy-testimonial-rotator.php:2903
+#: easy-testimonial-rotator.php:3021 easy-testimonial-rotator.php:3062
+#: easy-testimonial-rotator.php:3490 easy-testimonial-rotator.php:3554
+#: easy-testimonial-rotator.php:3656
+msgid "Access Denied. Please contact your administrator"
+msgstr ""
+
+#: easy-testimonial-rotator.php:2878
+msgid "Testimonial updated successfully."
+msgstr ""
+
+#: easy-testimonial-rotator.php:2887
+msgid "Error while updating testimonial."
+msgstr ""
+
+#: easy-testimonial-rotator.php:2962
+msgid "New testimonial added successfully."
+msgstr ""
+
+#: easy-testimonial-rotator.php:2971
+msgid "Error while adding testimonial."
+msgstr ""
+
+#: easy-testimonial-rotator.php:3047
+msgid "Update Testimonial"
+msgstr ""
+
+#: easy-testimonial-rotator.php:3070
+msgid "Add Testimonial"
+msgstr ""
+
+#: easy-testimonial-rotator.php:3156
+msgid "Current Image :"
+msgstr ""
+
+#: easy-testimonial-rotator.php:3169
+msgid "Click here to upload author photo"
+msgstr ""
+
+#: easy-testimonial-rotator.php:3171
+msgid "OR"
+msgstr ""
+
+#: easy-testimonial-rotator.php:3186 easy-testimonial-rotator.php:4080
+msgid "Please enter your gravatar.com email"
+msgstr ""
+
+#: easy-testimonial-rotator.php:3223
+msgid "WP Media Uploader"
+msgstr ""
+
+#: easy-testimonial-rotator.php:3229
+msgid "Set Image"
+msgstr ""
+
+#: easy-testimonial-rotator.php:3524
+msgid "Testimonial deleted successfully."
+msgstr ""
+
+#: easy-testimonial-rotator.php:3534
+msgid "Error while deleting testimonial."
+msgstr ""
+
+#: easy-testimonial-rotator.php:3596
+msgid "selected images deleted successfully."
+msgstr ""
+
+#: easy-testimonial-rotator.php:3607
+msgid "Error while deleting image."
+msgstr ""
+
+#: easy-testimonial-rotator.php:4072
+msgid "Click here to use gravatar.com's avtar"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Easy Testimonial Slider"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid ""
+"https://www.i13websolution.com/product/wordpress-easy-testimonial-slider-"
+"plugin/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"This is beautiful responsive testimonial slider plugin for WordPress.Add any "
+"number of testimonial from admin panel."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "I Thirteen Web Solution"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.i13websolution.com/"
+msgstr ""
